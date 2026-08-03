@@ -25,9 +25,8 @@
 
 ### 📈 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SairaF-Dev&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub commits](https://img.shields.io/github/commit-activity/m/SairaF-Dev/SairaF-Dev?style=for-the-badge&color=blue)
+![GitHub Repo Stars](https://img.shields.io/github/stars/SairaF-Dev/ShieldVision?style=for-the-badge&color=gold)
 ---
 
 ### ✍️ Articles & Insights
