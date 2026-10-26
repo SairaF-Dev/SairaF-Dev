@@ -41,8 +41,7 @@
 ### 📈 Development Telemetry
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SairaF-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairaF-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SairaF-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairaF-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -54,6 +53,5 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sairafatima193"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@sairafatima193"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sairafatima193"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sairafatima193"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
