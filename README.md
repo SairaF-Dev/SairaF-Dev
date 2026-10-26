@@ -71,6 +71,6 @@ I am a Computer Science graduate (NFC IEFR) working as a Software Development In
 
 ### Let's Connect
 
-I am open to internships and collaborations in computer vision and applied AI. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/sairafatima193).
+I am open to junior AI roles and collaborations in computer vision and applied AI. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/sairafatima193).
 
 <img src="./footer.svg" width="100%" alt="Footer wave" />
