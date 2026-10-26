@@ -53,12 +53,8 @@ I am a Computer Science graduate (NFC IEFR) working as a Software Development In
 ### GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SairaF-Dev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SairaF-Dev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_rank=true&amp;count_private=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairaF-Dev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SairaF-Dev&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
