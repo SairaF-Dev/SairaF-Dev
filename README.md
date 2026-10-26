@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0366D6,100:00C2FF&amp;height=220&amp;section=header&amp;text=Saira%20Fatima&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20Vision%20%26%20AI%20Engineer&amp;descAlignY=60&amp;descSize=20" width="100%" alt="Header" />
+  <img src="./header.svg" width="100%" alt="Saira Fatima, Computer Vision and AI Engineer" />
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=0366D6&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=I+build+real+time+detection+systems;From+model+training+to+cloud+deployment;Currently+exploring+agentic+AI+and+RAG" alt="Typing SVG" /></a>
+  <img src="./typing.svg" alt="I build real time detection systems. From model training to cloud deployment. Currently exploring agentic AI and RAG." />
 
   <p>
     <a href="https://www.linkedin.com/in/sairafatima193"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
@@ -73,4 +73,4 @@ I am a Computer Science graduate (NFC IEFR) working as a Software Development In
 
 I am open to internships and collaborations in computer vision and applied AI. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/sairafatima193).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0366D6,100:00C2FF&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
+<img src="./footer.svg" width="100%" alt="Footer wave" />
