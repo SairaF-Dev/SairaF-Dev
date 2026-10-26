@@ -15,7 +15,7 @@
 
 ### About Me
 
-I am a Computer Science graduate (NFC IEFR) working as a Software Development Intern at **NetixSol**. I build computer vision and machine learning systems and take them all the way to deployment: training a model, wrapping it in an API, and running it on a server.
+I am a Computer Science graduate (NFC IEFR) working as a AI Intern at **NetixSol**. I build computer vision and machine learning systems and take them all the way to deployment: training a model, wrapping it in an API, and running it on a server.
 
 * Currently building **ShieldVision**, a real time weapon detection system with live alerts
 * Learning: Google Advanced Data Analytics, CS50, and agentic AI (LangChain, LangGraph, RAG)
