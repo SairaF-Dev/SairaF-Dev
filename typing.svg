@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 44" width="700" height="44" role="img" aria-label="I build real time detection systems. From model training to cloud deployment. Currently exploring agentic AI and RAG.">
+  <defs>
+    <clipPath id="c1"><rect x="0" y="0" height="44" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.15;0.30;0.3334;1" values="0;700;700;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="44" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.3333;0.4833;0.6333;0.6667;1" values="0;0;700;700;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="44" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.6666;0.8166;0.9666;1" values="0;0;700;700;0"/>
+    </rect></clipPath>
+  </defs>
+
+  <g font-family="'Fira Code', Consolas, Menlo, monospace" font-size="20" font-weight="500" fill="#2F81F7">
+    <text x="140" y="29" clip-path="url(#c1)">I build real time detection systems</text>
+    <text x="116" y="29" clip-path="url(#c2)">From model training to cloud deployment</text>
+    <text x="122" y="29" clip-path="url(#c3)">Currently exploring agentic AI and RAG</text>
+  </g>
+</svg>

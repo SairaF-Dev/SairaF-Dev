@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Saira Fatima, Computer Vision and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0366D6"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" fill="url(#bg)"/>
+
+  <path d="M0 165 q125 -40 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V220 H0 Z" fill="#ffffff" fill-opacity="0.18">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 180 q125 -35 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 V220 H0 Z" fill="#ffffff" fill-opacity="0.28">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff" opacity="0">
+    Saira Fatima
+    <animate attributeName="opacity" from="0" to="1" dur="1.4s" fill="freeze"/>
+  </text>
+  <text x="500" y="135" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" opacity="0">
+    Computer Vision and AI Engineer
+    <animate attributeName="opacity" from="0" to="0.95" begin="0.8s" dur="1.4s" fill="freeze"/>
+  </text>
+</svg>
